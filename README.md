@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamaniketray" alt="iamaniketray" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning,Deep Learning and Full-Stack Devlopment**
+- 🌱 I’m currently learning Cloud , DevOps, DevSecOps, AWS, Azure, Kubernetes, Terraform, CI/CD, and Generative AI.**
 
 - 📫 How to reach me **aniketbgs07@gmail.com**
 
